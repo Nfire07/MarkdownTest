@@ -45,7 +45,7 @@ This is a Vue 3-based Markdown editor that allows you to write, test, and previe
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/your-username/markdown-editor-vue.git
+git clone https://github.com/Nfire07/MarkdownTest
 cd markdown-editor-vue
 npm install
 npm run dev
